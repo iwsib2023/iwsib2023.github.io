@@ -40,7 +40,7 @@ conference:
 #  show_errors: false
   main:
     logo:
-      img: 'logo.png'
+      img: 'logo_trans.png'
   navigation:
     links:
       - name: Call for papers

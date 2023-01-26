@@ -31,3 +31,16 @@ Topics of interest include, but are not limited, to the following aspects of sof
 - Paper notifications: May 5th, 2023
 - Workshop: June 13th, 2023
 - Camera-ready versions: TBD
+
+## Guidelines ##
+
+All submissions must conform to the LNBIP formatting and submission instructions. Authors should consult Springer’s author guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form.
+
+The paper length should not exceed **8 pages**.
+
+There is no limit on the number of submissions an author may submit, but authors are advised to focus on quality rather than on quantity.
+
+By submitting to IWSiB , authors acknowledge that they are aware of and agree that papers submitted to IWSiB must not have been published elsewhere and must not be under review or submitted for review elsewhere while under consideration for IWSiB.
+
+Papers must be submitted electronically via XP 2023's EasyChair by the defined deadline (see above) selecting the IWSiB 2023 track on the link: [https://easychair.org/conferences/?conf=xp2023](https://easychair.org/conferences/?conf=xp2023)
+

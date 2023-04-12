@@ -9,7 +9,8 @@ The one-day workshop will be held on **June 13, 2023** in Amsterdam, The Netherl
 
 **Important Dates:**
 
-- Paper submissions: April 14th, 2023
+- Abstract submission: April 14th, 2023 (mandatory)
+- Paper submissions: ~~April 14th, 2023~~ April 19th, 2023
 - Paper notifications: May 5th, 2023
 - Workshop: June 13th, 2023
 - Camera-ready versions: TBD

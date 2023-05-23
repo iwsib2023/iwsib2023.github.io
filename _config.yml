@@ -36,8 +36,38 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-conference:
-#  show_errors: false
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: false
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+
+conference: 
+  lang: en
+  show_errors: True
   main:
     logo:
       img: 'logo_trans.png'
@@ -47,11 +77,26 @@ conference:
         relative_url: /cfp/
       - name: Program
         relative_url: /program/
-        disabled: true
       - name: Organization
         relative_url: /organization/
       - name: History
         relative_url: /history/
+  talks:
+    main_categories:
+      - name: Keynote
+        color: warning
+      - name: Paper
+        color: info
+      - name: Others
+        color: success
+      - name: Break
+        color: white
+  speakers:
+    show_firstname: true
+  program: 
+    url: '/program'
+    time_steps: 10
+    show_alltimes: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
